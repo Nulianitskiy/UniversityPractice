@@ -1,0 +1,52 @@
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\Shuffles.exe.config
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\Shuffles.exe
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\Shuffles.pdb
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\obj\Debug\Shuffles.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\obj\Debug\Shuffles.Properties.Resources.resources
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\obj\Debug\Shuffles.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\obj\Debug\Shuffles.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\obj\Debug\Shuffles.exe
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\obj\Debug\Shuffles.pdb
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\obj\Debug\Shuffles.Form_Face.resources
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\ZedGraph.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\ZedGraph.xml
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\User\Desktop\Материалы\2 курс\Shuffles\Shuffles\obj\Debug\Shuffles.csproj.CopyComplete
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\obj\Debug\Shuffles.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\obj\Debug\Shuffles.Form_Face.resources
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\obj\Debug\Shuffles.Properties.Resources.resources
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\obj\Debug\Shuffles.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\obj\Debug\Shuffles.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\obj\Debug\Shuffles.exe
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\obj\Debug\Shuffles.pdb
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\Shuffles.exe.config
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\Shuffles.exe
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\Shuffles.pdb
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\ZedGraph.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\ZedGraph.xml
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\User\Desktop\Resources\2 Course\Инидидидиуаналки 3 сем\Shuffles\Shuffles\obj\Debug\Shuffles.csproj.CopyComplete
